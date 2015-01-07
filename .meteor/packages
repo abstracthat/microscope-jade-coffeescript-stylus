@@ -11,3 +11,4 @@ underscore
 mquandalle:jade
 stylus
 coffeescript
+iron:router
