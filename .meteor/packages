@@ -12,3 +12,4 @@ mquandalle:jade
 stylus
 coffeescript
 iron:router
+sacha:spin
