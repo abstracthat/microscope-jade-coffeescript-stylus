@@ -1,7 +1,6 @@
 template(name='layout')
   .container
     header.navbar.navbar-default(role='navigation')
-      .navbar-header
-        a.navbar-brand(href="{{pathFor 'postsList'}}") Microscope
+      +header
     #main.row-fluid
       +yield
